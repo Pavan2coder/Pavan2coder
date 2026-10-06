@@ -98,69 +98,7 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 ---
 
-# ⚡ WHAT I DO
 
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-## 🤖 AI / ML
-
-Machine Learning
-
-Deep Learning
-
-Computer Vision
-
-Generative AI
-
-RAG
-
-AI Agents
-
-</td>
-
-<td width="33%" align="center">
-
-## 🌐 FULL STACK
-
-React
-
-Next.js
-
-Node.js
-
-Express
-
-FastAPI
-
-Django
-
-</td>
-
-<td width="33%" align="center">
-
-## ☁️ CLOUD / SYSTEMS
-
-AWS
-
-Google Cloud
-
-Firebase
-
-Docker
-
-Vercel
-
-GitHub
-
-</td>
-
-</tr>
-</table>
-
----
 
 # 💻 TECH STACK
 
@@ -224,24 +162,7 @@ GitHub
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-</p>
 
-<div align="center">
-
-<pre>
-                         AI / ML
-                            │
-              ┌─────────────┼─────────────┐
-              ↓             ↓             ↓
-         MACHINE        COMPUTER      GENERATIVE
-         LEARNING        VISION           AI
-              │             │             │
-           Models        OpenCV          LLMs
-           Data          MediaPipe       RAG
-           Training      Recognition     Agents
-</pre>
-
-</div>
 
 ## 🗄️ DATABASES
 
@@ -299,104 +220,6 @@ GitHub
 
 ---
 
-# 🚀 FEATURED BUILDS
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🤖 JARVIS
-
-### Personal AI Assistant
-
-A voice-first AI assistant exploring natural human-computer interaction.
-
-**Stack**
-
-`Python` `Gemini` `OpenCV` `MediaPipe`
-
-**Features**
-
-🎙️ Voice Interaction  
-👁️ Computer Vision  
-🖐️ Gesture Recognition  
-🧠 LLM Intelligence  
-⚡ Real-Time Systems  
-🖥️ HUD Interface
-
-</td>
-
-<td width="50%">
-
-## 🏫 CAMPUS COMPANION
-
-### Student Platform
-
-A centralized platform for student counseling and administrative workflows.
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-**Features**
-
-🎓 Student Management  
-📚 Library Management  
-📊 Admin Dashboard  
-🧑‍🏫 Counseling  
-🔐 Role-Based Access  
-📈 Analytics
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ✋ SIGN LANGUAGE AI
-
-### Computer Vision + ML
-
-Exploring Indian Sign Language recognition using landmark-based ML pipelines.
-
-**Stack**
-
-`Python` `OpenCV` `MediaPipe` `PyTorch`
-
-**Focus**
-
-🖐️ Landmark Detection  
-🧠 ML Classification  
-🎥 Video Processing  
-⚡ Real-Time Prediction
-
-</td>
-
-<td width="50%">
-
-## ⚡ MORE BUILDING...
-
-### Ideas → Experiments → Products
-
-Always experimenting with AI, web development, automation, cloud and hardware.
-
-**CURRENT MODE**
-
-`BUILDING`
-
-`LEARNING`
-
-`EXPERIMENTING`
-
-`SHIPPING`
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -432,74 +255,8 @@ Always experimenting with AI, web development, automation, cloud and hardware.
 
 ---
 
-# 🔥 MY WORKFLOW
 
-<div align="center">
 
-<pre>
-                         💡 IDEA
-                           │
-                           ▼
-                      🔎 RESEARCH
-                           │
-                           ▼
-                       ⚙️ BUILD
-                           │
-                           ▼
-                       💀 BREAK
-                           │
-                           ▼
-                       🛠️ DEBUG
-                           │
-                           ▼
-                       🚀 SHIP
-                           │
-                           ▼
-                       ♾️ REPEAT
-</pre>
-
-</div>
-
----
-
-# 🧠 CURRENTLY EXPLORING
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🤖 AI AGENTS                                               ║
-║     ├── LLM Applications                                    ║
-║     ├── Agentic Workflows                                   ║
-║     └── Tool-Using AI                                       ║
-║                                                              ║
-║  🔎 RAG                                                      ║
-║     ├── Vector Search                                       ║
-║     ├── Embeddings                                          ║
-║     └── Retrieval Pipelines                                 ║
-║                                                              ║
-║  👁️ COMPUTER VISION                                         ║
-║     ├── OpenCV                                              ║
-║     ├── MediaPipe                                           ║
-║     └── Real-Time Recognition                               ║
-║                                                              ║
-║  🌐 FULL STACK                                               ║
-║     ├── React                                               ║
-║     ├── Node.js                                             ║
-║     └── FastAPI                                             ║
-║                                                              ║
-║  ☁️ CLOUD                                                    ║
-║     ├── Docker                                              ║
-║     ├── Google Cloud                                        ║
-║     └── Deployment                                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
-</div>
-
----
 
 # 📊 GITHUB STATS
 
@@ -537,7 +294,7 @@ Always experimenting with AI, web development, automation, cloud and hardware.
 
 ---
 
-# 🎯 2026 MISSION
+# MISSION
 
 <div align="center">
 
@@ -558,16 +315,6 @@ Always experimenting with AI, web development, automation, cloud and hardware.
 </pre>
 
 </div>
-
-### Mission
-
-- 🚀 Build products people actually use
-- 🤖 Go deeper into AI & ML
-- 🧠 Improve problem solving & DSA
-- 🌐 Build scalable full-stack systems
-- ☁️ Learn cloud architecture
-- 🔓 Contribute to open source
-- 🛠️ Keep experimenting
 
 ---
 
