@@ -87,7 +87,7 @@
 
 
 
-#  TECH STACK
+#                                                            TECH STACK
 
 ## 🧠 LANGUAGES
 
@@ -280,31 +280,10 @@
 
 ---
 
-# MISSION
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  [████████████████████░░░░░░]  BUILD BETTER PRODUCTS        ║
-║                                                              ║
-║  [██████████████████░░░░░░░░]  GO DEEPER INTO AI            ║
-║                                                              ║
-║  [████████████████░░░░░░░░░░]  MASTER SYSTEM DESIGN         ║
-║                                                              ║
-║  [██████████████░░░░░░░░░░░░]  OPEN SOURCE                  ║
-║                                                              ║
-║  [████████████░░░░░░░░░░░░░░]  SHIP REAL-WORLD PRODUCTS     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
-
-</div>
 
 ---
 
-# 💭ENGINEERING PHILOSOPHY
+# ENGINEERING PHILOSOPHY
 
 <div align="center">
 
