@@ -51,26 +51,13 @@
 </div>
 
 <p align="center">
-I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack Development, Cloud and Automation.</b>
+
 </p>
 
 <div align="center">
 
-<pre>
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   THINK  →  BUILD  →  BREAK  →  DEBUG  →  SHIP                 │
-│                                                                  │
-│   Always learning.                                               │
-│   Always experimenting.                                          │
-│   Always building something.                                     │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-</pre>
 
 </div>
-
-> **"Don't just learn technology. Build something with it."**
 
 ---
 
