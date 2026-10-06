@@ -260,23 +260,6 @@
 
 ---
 
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pavan2coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=Pavan2coder&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
-
-<br><br>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2coder&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10"/>
-
-</div>
-
----
-
-
 ---
 
 # ENGINEERING PHILOSOPHY
