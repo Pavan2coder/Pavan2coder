@@ -31,3 +31,407 @@
 ║   Always learning. Always building something.                    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
+
+🌐 SOCIALS
+<div align="center">
+
+<a href="https://linkedin.com/in/sri-pavan-athava">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@Pavan">
+<img src="https://img.shields.io/badge/Mastodon-Follow-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="mailto:sripavan472006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Pavan2coder">
+<img src="https://img.shields.io/badge/GitHub-Pavan2coder-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+⚡ WHAT I DO
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+🤖 AI / ML
+Machine Learning
+Deep Learning
+Computer Vision
+Generative AI
+RAG
+AI Agents
+</td>
+
+<td width="33%" align="center">
+
+🌐 FULL STACK
+React
+Next.js
+Node.js
+Express
+FastAPI
+Django
+</td>
+
+<td width="33%" align="center">
+
+☁️ CLOUD / TOOLS
+AWS
+Google Cloud
+Firebase
+Docker
+Vercel
+GitHub
+</td>
+
+</tr>
+</table>
+
+💻 TECH STACK
+🧠 Languages
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+🎨 Frontend
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+⚙️ Backend
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
+
+</p>
+
+🤖 AI / MACHINE LEARNING
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+</p>
+
+                         AI / ML
+                            │
+              ┌─────────────┼─────────────┐
+              ↓             ↓             ↓
+         MACHINE        COMPUTER      GENERATIVE
+         LEARNING        VISION           AI
+              │             │             │
+           Models        OpenCV          LLMs
+           Data          MediaPipe       RAG
+           Training      Recognition     Agents
+
+🗄️ DATABASES
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</p>
+
+☁️ CLOUD & DEPLOYMENT
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+🛠️ TOOLS & DEVELOPMENT
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+
+</p>
+
+🚀 FEATURED BUILDS
+<table>
+<tr>
+
+<td width="50%">
+
+🤖 JARVIS
+Personal AI Assistant
+A voice-first AI assistant exploring natural human-computer interaction.
+Stack
+Python Gemini OpenCV MediaPipe
+Features
+🎙️ Voice Interaction
+👁️ Computer Vision
+🖐️ Gesture Recognition
+🧠 LLM Intelligence
+⚡ Real-Time Systems
+🖥️ HUD Interface
+</td>
+
+<td width="50%">
+
+🏫 CAMPUS COMPANION
+Student Platform
+A centralized platform for student counseling and administrative workflows.
+Stack
+React Node.js Express MongoDB
+Features
+🎓 Student Management
+📚 Library Management
+📊 Admin Dashboard
+🧑‍🏫 Counseling
+🔐 Role-Based Access
+📈 Analytics
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+✋ SIGN LANGUAGE AI
+Computer Vision + ML
+Exploring Indian Sign Language recognition using landmark-based ML pipelines.
+Stack
+Python OpenCV MediaPipe PyTorch
+Focus
+🖐️ Landmark Detection
+🧠 ML Classification
+🎥 Video Processing
+⚡ Real-Time Prediction
+</td>
+
+<td width="50%">
+
+⚡ MORE BUILDING...
+Ideas → Experiments → Products
+Always experimenting with AI, web development, automation, cloud and hardware.
+Current Mode
+BUILDING
+LEARNING
+EXPERIMENTING
+SHIPPING
+</td>
+
+</tr>
+</table>
+
+🧬 DEVELOPER DNA
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  AI / ML              ████████████████████░░    EXPLORE      ║
+║  FULL STACK           ███████████████████░░░    BUILD        ║
+║  BACKEND              █████████████████░░░░░    BUILD        ║
+║  COMPUTER VISION      ███████████████░░░░░░░    EXPLORE      ║
+║  CLOUD                █████████████░░░░░░░░░    LEARN        ║
+║  SYSTEM DESIGN        ███████████░░░░░░░░░░░    LEARN        ║
+║  OPEN SOURCE          ██████████░░░░░░░░░░░░    CONTRIBUTE   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+These represent my current areas of focus, not fixed skill ratings.
+
+📊 GITHUB STATS
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pavan2coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pavan2coder&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
+
+
+
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2coder&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10"/>
+
+</div>
+
+📈 CONTRIBUTION GRAPH
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan2coder&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Pavan's%20Contribution%20Graph"/>
+
+</div>
+
+🏆 GITHUB TROPHIES
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pavan2coder&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
+</div>
+
+🔥 MY WORKFLOW
+                         💡 IDEA
+                           │
+                           ▼
+                      🔎 RESEARCH
+                           │
+                           ▼
+                       ⚙️ BUILD
+                           │
+                           ▼
+                       💀 BREAK
+                           │
+                           ▼
+                       🛠️ DEBUG
+                           │
+                           ▼
+                       🚀 SHIP
+                           │
+                           ▼
+                       ♾️ REPEAT
+
+🧠 CURRENTLY EXPLORING
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🤖 AI AGENTS                                               ║
+║     ├── LLM Applications                                    ║
+║     ├── Agentic Workflows                                   ║
+║     └── Tool-Using AI                                       ║
+║                                                              ║
+║  🔎 RAG                                                      ║
+║     ├── Vector Search                                       ║
+║     ├── Embeddings                                          ║
+║     └── Retrieval Pipelines                                 ║
+║                                                              ║
+║  👁️ COMPUTER VISION                                         ║
+║     ├── OpenCV                                              ║
+║     ├── MediaPipe                                           ║
+║     └── Real-Time Recognition                               ║
+║                                                              ║
+║  🌐 FULL STACK                                               ║
+║     ├── React                                               ║
+║     ├── Node.js                                             ║
+║     └── FastAPI                                             ║
+║                                                              ║
+║  ☁️ CLOUD                                                    ║
+║     ├── Docker                                              ║
+║     ├── Google Cloud                                        ║
+║     └── Deployment                                          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+
+🎯 2026 MISSION
+[████████████████████░░░░░░] BUILD BETTER PRODUCTS
+
+[██████████████████░░░░░░░░] GO DEEPER INTO AI
+
+[████████████████░░░░░░░░░░] MASTER SYSTEM DESIGN
+
+[██████████████░░░░░░░░░░░░] CONTRIBUTE TO OPEN SOURCE
+
+[████████████░░░░░░░░░░░░░░] SHIP REAL-WORLD PRODUCTS
+
+Mission
+- 🚀 Build products people actually use
+- 🤖 Go deeper into AI & ML
+- 🧠 Improve problem solving & DSA
+- 🌐 Build scalable full-stack systems
+- ☁️ Learn cloud architecture
+- 🔓 Contribute to open source
+- 🛠️ Keep experimenting
+💭 ENGINEERING PHILOSOPHY
+<div align="center">
+
+"The best way to understand technology is to build with it."
+LEARN
+  ↓
+BUILD
+  ↓
+FAIL
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+SHIP
+
+</div>
+
+🌐 CONNECT WITH ME
+<div align="center">
+
+<a href="https://github.com/Pavan2coder">
+<img src="https://img.shields.io/badge/GitHub-Pavan2coder-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sri-pavan-athava">
+<img src="https://img.shields.io/badge/LinkedIn-Sri_Pavan_Athava-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mastodon.social/@Pavan">
+<img src="https://img.shields.io/badge/Mastodon-Pavan-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
+</a>
+
+<a href="mailto:sripavan472006@gmail.com">
+<img src="https://img.shields.io/badge/Email-sripavan472006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+<div align="center">
+
+🤝 Open to interesting projects, collaborations & opportunities.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F7FF,50:111827,100:050505&section=footer" width="100%"/>
+
+⚡ BUILD • BREAK • LEARN • SHIP ⚡
+<sub>Designed & built by Athava Sri Pavan</sub>
+</div>
+```
