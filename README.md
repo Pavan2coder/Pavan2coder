@@ -100,7 +100,7 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 
 
-# 💻 TECH STACK
+#  TECH STACK
 
 ## 🧠 LANGUAGES
 
@@ -251,7 +251,6 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 </div>
 
-> These represent my current areas of focus, not fixed skill ratings.
 
 ---
 
@@ -318,7 +317,7 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 ---
 
-# 💭 ENGINEERING PHILOSOPHY
+# 💭ENGINEERING PHILOSOPHY
 
 <div align="center">
 
@@ -326,13 +325,12 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 <br>
 
-### `"The best way to understand technology is to build with it."`
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# CONNECT WITH ME
 
 <div align="center">
 
