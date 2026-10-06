@@ -260,21 +260,17 @@
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan2coder&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Pavan's%20Contribution%20Graph" width="95%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pavan2coder&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-</div>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pavan2coder&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"/>
 
----
+<br><br>
 
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Pavan2coder/Pavan2coder/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavan2coder&layout=compact&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10"/>
 
 </div>
 
