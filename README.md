@@ -16,29 +16,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  &gt; INITIALIZING PAVAN.OS...                                     ║
-║                                                                  ║
-║  [✓] Loading developer profile                                  ║
-║  [✓] Loading AI modules                                         ║
-║  [✓] Loading full-stack systems                                 ║
-║  [✓] Loading cloud infrastructure                               ║
-║  [✓] Loading curiosity                                          ║
-║                                                                  ║
-║  STATUS: ONLINE ●                                               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-</pre>
-
-</td>
-</tr>
-</table>
 
 </div>
 
