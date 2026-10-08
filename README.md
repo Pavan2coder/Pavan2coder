@@ -51,26 +51,13 @@
 </div>
 
 <p align="center">
-I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack Development, Cloud and Automation.</b>
+
 </p>
 
 <div align="center">
 
-<pre>
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                  │
-│   THINK  →  BUILD  →  BREAK  →  DEBUG  →  SHIP                 │
-│                                                                  │
-│   Always learning.                                               │
-│   Always experimenting.                                          │
-│   Always building something.                                     │
-│                                                                  │
-╰──────────────────────────────────────────────────────────────────╯
-</pre>
 
 </div>
-
-> **"Don't just learn technology. Build something with it."**
 
 ---
 
@@ -100,7 +87,11 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 
 
+<<<<<<< HEAD
 # 💻 TECH STACK
+=======
+#                                                            TECH STACK
+>>>>>>> b3ec944dc7d9dee5a746da5947257d06d8124353
 
 ## 🧠 LANGUAGES
 
@@ -251,7 +242,6 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 </div>
 
-> These represent my current areas of focus, not fixed skill ratings.
 
 ---
 
@@ -274,16 +264,9 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavan2coder&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Pavan's%20Contribution%20Graph" width="95%"/>
-
-</div>
-
 ---
 
+<<<<<<< HEAD
 # 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
@@ -319,6 +302,9 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 ---
 
 # 💭 ENGINEERING PHILOSOPHY
+=======
+# ENGINEERING PHILOSOPHY
+>>>>>>> b3ec944dc7d9dee5a746da5947257d06d8124353
 
 <div align="center">
 
@@ -326,13 +312,12 @@ I build software across <b>Artificial Intelligence, Machine Learning, Full-Stack
 
 <br>
 
-### `"The best way to understand technology is to build with it."`
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# CONNECT WITH ME
 
 <div align="center">
 
